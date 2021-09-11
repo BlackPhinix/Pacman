@@ -1,2 +1,3 @@
 # Pacman
-pac man game made in java 
+simple pac man game made in java 
+
